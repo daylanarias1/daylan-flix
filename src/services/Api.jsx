@@ -1,4 +1,4 @@
-const BASE_URL = 'https://daylan-flixx-i9ggfskw9-daylans-projects.vercel.app';
+const BASE_URL = 'https://daylan-flixx.vercel.app';
 
 export async function obtenerCategorias() {
     const response = await fetch(`${BASE_URL}/categorias`);
