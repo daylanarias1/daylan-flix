@@ -1,0 +1,133 @@
+{
+  "categorias": [
+    {
+      "nombre": "1112",
+      "descripcion": "1112",
+      "color": "#8f2d2d",
+      "codigo": "111",
+      "id": "x915Lja"
+    },
+    {
+      "nombre": "55",
+      "descripcion": "55",
+      "color": "#ac0606",
+      "codigo": "55",
+      "id": "LcIpJwL"
+    },
+    {
+      "nombre": "222",
+      "descripcion": "222",
+      "color": "#400808",
+      "codigo": "22",
+      "id": "I3gJVx8"
+    },
+    {
+      "nombre": "sdsd",
+      "descripcion": "sdsdsd",
+      "color": "#2bff00",
+      "codigo": "2323",
+      "id": "yGEESrm"
+    }
+  ],
+  "videos": [
+    {
+      "titulo": "Accion",
+      "linkVideo": "#ff33",
+      "linkImagen": "https://i.ytimg.com/vi/0e3GPea1Tyg/maxresdefault.jpg",
+      "codigoCategoria": "2323",
+      "descripcion": "Producto 22",
+      "codigo": "2323",
+      "id": "Gg79456"
+    },
+    {
+      "titulo": "32232",
+      "linkVideo": "23232",
+      "linkImagen": "32323",
+      "codigoCategoria": "34343",
+      "descripcion": "232323",
+      "codigo": "2323",
+      "id": "TxHqIfU"
+    },
+    {
+      "titulo": "8888",
+      "linkVideo": "8888",
+      "linkImagen": "https://i.ytimg.com/vi/0e3GPea1Tyg/maxresdefault.jpg",
+      "codigoCategoria": "232323",
+      "descripcion": "888",
+      "codigo": "8888",
+      "id": "NsbKxtK"
+    },
+    {
+      "titulo": "3214324",
+      "linkVideo": "234234",
+      "linkImagen": "324324",
+      "codigoCategoria": "232323",
+      "descripcion": "234234",
+      "codigo": "324234",
+      "id": "XqbbHLM"
+    },
+    {
+      "titulo": "12",
+      "linkVideo": "12",
+      "linkImagen": "https://i.ytimg.com/vi/0e3GPea1Tyg/maxresdefault.jpg",
+      "codigoCategoria": "111",
+      "descripcion": "12",
+      "codigo": "12",
+      "id": "caPLJ0q"
+    },
+    {
+      "titulo": "12",
+      "linkVideo": "12",
+      "linkImagen": "12",
+      "codigoCategoria": "111",
+      "descripcion": "12",
+      "codigo": "12",
+      "id": "caPLJ0q1"
+    },
+    {
+      "titulo": "12",
+      "linkVideo": "12",
+      "linkImagen": "https://i.ytimg.com/vi/0e3GPea1Tyg/maxresdefault.jpg",
+      "codigoCategoria": "111",
+      "descripcion": "12",
+      "codigo": "12",
+      "id": "caPLJ0q2"
+    },
+    {
+      "titulo": "12",
+      "linkVideo": "12",
+      "linkImagen": "12",
+      "codigoCategoria": "111",
+      "descripcion": "12",
+      "codigo": "12",
+      "id": "caPLJ0q3"
+    },
+    {
+      "titulo": "12",
+      "linkVideo": "12",
+      "linkImagen": "https://i.ytimg.com/vi/0e3GPea1Tyg/maxresdefault.jpg",
+      "codigoCategoria": "111",
+      "descripcion": "12",
+      "codigo": "12",
+      "id": "caPLJ0q4"
+    },
+    {
+      "titulo": "12",
+      "linkVideo": "12",
+      "linkImagen": "12",
+      "codigoCategoria": "111",
+      "descripcion": "12",
+      "codigo": "12",
+      "id": "caPLJ0q5"
+    },
+    {
+      "titulo": "sdsdsds",
+      "linkVideo": "sdsd",
+      "linkImagen": "sdsd",
+      "codigoCategoria": "111",
+      "descripcion": "dsdsds",
+      "codigo": "dsdsdsd",
+      "id": "bfsdIIu"
+    }
+  ]
+}
