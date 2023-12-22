@@ -1,6 +1,10 @@
 {
   "functions": {
+<<<<<<< HEAD
     "src/api/server.js": {
+=======
+    "api/server.js": {
+>>>>>>> parent of 1c4e92c (as)
       "memory": 1024,
       "includeFiles": "db.json"
     }
@@ -8,7 +12,11 @@
   "rewrites": [
     {
       "source": "/(.*)",
+<<<<<<< HEAD
       "destination": "src/api/server.js"
+=======
+      "destination": "/api/server.js"
+>>>>>>> parent of 1c4e92c (as)
     }
   ]
 }
